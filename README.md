@@ -24,11 +24,14 @@ Engagement score trend	Strong upward trend — 5.05 (Jan) → 8.50 (Dec), ~70% i
 Highest acquisition cost	New York ($5,650.63)
 Best location + audience combo	San Francisco, Men 18–24 — 4.85% conversion
 Top ROI location	Chicago — 10.7% of total ROI
+
 💡 Recommendations
 Control acquisition cost rather than reallocating between companies/channels — variance there is narrow, but cost has the strongest relationship with ROI.
 Standardize campaigns around a 30-day duration, the dominant and best-tested format.
 Investigate the H2 2023 engagement surge to identify replicable drivers for future campaigns.
 Prioritize Men 18–24 and All-Ages segments in San Francisco, Dallas, and Los Angeles — the strongest-converting location-audience pairs.
+
+
 📁 Repository Contents
 ├── marketing_campaign_analysis.ipynb   # Full EDA notebook
 ├── Marketing_Campaign_Summary_Report.docx  # One-page findings summary
